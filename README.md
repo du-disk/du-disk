@@ -17,7 +17,7 @@ I'm currently active in contributing as Open Source Freelancer in Front-End Apps
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
     <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="21px" src="https://go.dev/images/gophers/ladder.svg" /></a>
-    <a href="https://go.dev/"><img align="left" alt="NestJs" title="NestJs" width="21px" src="[https://go.dev/images/gophers/ladder.svg](https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg)" /></a>
+    <a href="https://go.dev/"><img align="left" alt="NestJs" title="NestJs" width="21px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" /></a>
   <br>
   <br>
   
